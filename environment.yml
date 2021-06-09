@@ -278,8 +278,7 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-  - pip:
-    - de-core-news-sm==3.0.0
+  - pip:    
     - de-dep-news-trf==3.0.0
     - en-core-web-lg==3.0.0
     - en-core-web-md==3.0.0
