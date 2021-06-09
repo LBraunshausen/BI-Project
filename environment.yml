@@ -278,7 +278,7 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-  - https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.0.0/en_core_web_lg-3.0.0.tar.gz
+  
   - pip:            
     - filelock==3.0.12
     - ftfy==5.9
